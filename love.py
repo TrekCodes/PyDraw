@@ -3,7 +3,7 @@ import turtle
 from main import my_goto
 
 t = turtle.Turtle()
-turtle.title("Love Shape Programming")
+turtle.title("Love Programming")
 screen = turtle.Screen()
 screen.bgcolor("white")
 t.color("yellow", "red")
